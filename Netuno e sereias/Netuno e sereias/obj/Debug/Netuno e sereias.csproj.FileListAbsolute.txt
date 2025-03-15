@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno_e_sereias.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.pdb
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.exe.config
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.exe
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\bin\Debug\Netuno e sereias.pdb
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.csprojResolveAssemblyReference.cache
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno_e_sereias.MainForm.resources
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.csproj.GenerateResource.Cache
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.exe
+C:\Users\professor\Documents\Netuno e sereias\Netuno e sereias\obj\Debug\Netuno e sereias.pdb
